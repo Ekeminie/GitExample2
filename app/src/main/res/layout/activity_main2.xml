@@ -65,7 +65,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
-        android:text="Milk Shake"
+        android:text="Milk Shake Flavor"
         android:textAllCaps="true"
         android:textColor="@android:color/black"
         android:textSize="16sp" />
