@@ -1,0 +1,15 @@
+<resources>
+   <string name="app_name">Just Java</string>
+    <string name="order_summary_email_subject">mikebl</string>
+    <string name="selectoption">Select</string>
+<string name="hello_word">Hello World!</string>
+<string name="quantity_text_view">0</string>
+<string name="price_text_view">$0</string>
+<string name="price_text">$10</string>
+<string name="quantity_text">2</string>
+    <string-array name="sugar_level">
+        <item> Light </item>
+        <item> Medium </item>
+        <item> Heavy </item>
+    </string-array>
+    </resources>
